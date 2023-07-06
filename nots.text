@@ -1,0 +1,10 @@
+//cart
+1- list all cart products
+2- get items price total
+3- mins amount
+4- plus amount
+5- detect amount input change
+6- delete product
+7- clear cart
+8- get cart products length
+9-send cart to backend api
